@@ -4,7 +4,7 @@
                         Kolade Chris
                     
                 ](https://www.freecodecamp.org/news/author/kolade/)
-> -  译者：
+> -  译者：jiushipanta
 > -  校对者：
 
 ![Python If-Else – Python Conditional Syntax Example](https://www.freecodecamp.org/news/content/images/size/w2000/2022/02/py.png)
